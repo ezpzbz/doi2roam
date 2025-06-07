@@ -59,6 +59,7 @@ def synthesize_roam_import(doi):
     ref = ref_base + auth_base 
 #     Reference - Journal
     journal = json['message']['container-title']
+    print(journal)
     abbr = df[df['long_name'] == journal[0]]['short_name'].values[0]
     filename_journal = abbr.replace(' ','').replace('.','')
 

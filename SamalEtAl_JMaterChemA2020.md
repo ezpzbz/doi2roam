@@ -1,0 +1,16 @@
+- Two-dimensional transition metal phosphorous trichalcogenides (MPX3): a review on emerging trends, current state and future perspectives
+- Abstract:
+	- <- Reference:
+	- Authors:
+		- [[Rutuparna Samal]]
+		- [[Gopal Sanyal]]
+		- [[Brahmananda Chakraborty]]
+		- [[Chandra Sekhar Rout]]
+	- Journal:
+		- [[Journal of Materials Chemistry A]] [[J. Mater. Chem. A]]
+	- URL:
+		- http://dx.doi.org/10.1039/d0ta09752g
+- Notes:
+- Summary:
+- Concepts:
+- Keywords:

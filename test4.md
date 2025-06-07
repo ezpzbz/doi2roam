@@ -1,0 +1,21 @@
+- Synthesis and characterization of organotin(IV) semiconductors and their applications in optoelectronics
+- Abstract:
+	- 
+- Reference:
+	- Authors:
+		- [[César R. Monzón-González]]
+		- [[María Elena Sánchez-Vergara]]
+		- [[Wilmer E. Vallejo Narváez]]
+		- [[Tomás Rocha-Rinza]]
+		- [[Marcos Hernández]]
+		- [[Elizabeth Gómez]]
+		- [[Omar Jiménez-Sandoval]]
+		- [[Cecilio Álvarez-Toledano]]
+	- Journal:
+		- [[Journal of Physics and Chemistry of Solids]] [[J. Phys. Chem. Solids]]
+	- URL:
+		- http://dx.doi.org/10.1016/j.jpcs.2020.109840
+- Notes:
+- Summary:
+- Concepts:
+- Keywords:

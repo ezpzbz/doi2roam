@@ -1,0 +1,17 @@
+- Transition Metal Phosphorous Trisulfides as Cathode Materials in High Temperatures Batteries
+- Abstract:
+	- 
+- Reference:
+	- Authors:
+		- [[Dean E. Glass]]
+		- [[John-Paul Jones]]
+		- [[Abhijit V. Shevade]]
+		- [[Ratnakumar V. Bugga]]
+	- Journal:
+		- [[Journal of The Electrochemical Society]] [[J. Electrochem. Soc.]]
+	- URL:
+		- http://dx.doi.org/10.1149/1945-7111/aba0d4
+- Notes:
+- Summary:
+- Concepts:
+- Keywords:

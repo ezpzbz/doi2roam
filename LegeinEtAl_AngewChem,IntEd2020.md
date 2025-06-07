@@ -1,0 +1,25 @@
+- Atomic Insights into Aluminium‐Ion Insertion in Defective Anatase for Batteries
+- Abstract:
+	- 
+- Reference:
+	- Authors:
+		- [[Christophe Legein]]
+		- [[Benjamin J. Morgan]]
+		- [[Franck Fayon]]
+		- [[Toshinari Koketsu]]
+		- [[Jiwei Ma]]
+		- [[Monique Body]]
+		- [[Vincent Sarou‐Kanian]]
+		- [[Xian‐Kui Wei]]
+		- [[Marc Heggen]]
+		- [[Olaf J. Borkiewicz]]
+		- [[Peter Strasser]]
+		- [[Damien Dambournet]]
+	- Journal:
+		- [[Angewandte Chemie International Edition]] [[Angew. Chem., Int. Ed.]]
+	- URL:
+		- http://dx.doi.org/10.1002/anie.202007983
+- Notes:
+- Summary:
+- Concepts:
+- Keywords:
